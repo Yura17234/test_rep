@@ -1,5 +1,5 @@
 import argparse
-from ptm_search.config import Config
+from test_module.config import Config
 # from ptm_search.search.multiple_search import multiple_search
 
 def main():

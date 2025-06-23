@@ -1,5 +1,5 @@
 import argparse
-from ptm_search.config import Config
+from test_module.config import Config
 # from ptm_search.preprocessing.preprocessing_main import preprocessing_main
 
 def main():
